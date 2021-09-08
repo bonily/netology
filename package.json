@@ -2,7 +2,9 @@
   "name": "netology-training-project",
   "version:": "0.0.1",
   "description": "Training project",
+  "author": "bonily <bonilya@gmail.com>",
   "main": "index.js",
+  "repository": "https://github.com/bonily/netology",
   "bin": {
     "get-date": "getDate.js",
     "game-number": "gameNumber.js"

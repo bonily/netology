@@ -1,6 +1,6 @@
 {
   "name": "netology-training-project",
-  "version:": "0.0.1",
+  "version": "1.0.0",
   "description": "Training project",
   "author": "bonily <bonilya@gmail.com>",
   "main": "index.js",
